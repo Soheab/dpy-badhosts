@@ -42,7 +42,7 @@ Format:
 
 **this list is not exhaustive**
 
-Reason not listed or considering buying a host but not sure if it's any good? Consider around in the server.
+Reason not listed or considering buying a host but not sure if it's any good? Ask around in the server.
 
 Trusted hosts can be found at `?tag hosting` in the server.
 
